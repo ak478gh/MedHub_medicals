@@ -1,0 +1,19 @@
+{
+  "name": "medhub_medicals",
+  "version": "1.0.0",
+  "description": "This is my Construct Week Project That I built by my self.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak478gh/MedHub_medicals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ak478gh/MedHub_medicals/issues"
+  },
+  "homepage": "https://github.com/ak478gh/MedHub_medicals#readme"
+}
